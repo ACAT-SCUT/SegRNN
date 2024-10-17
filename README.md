@@ -7,7 +7,7 @@ strategies:
 2. The substitution of Recurrent Multi-step Forecasting (RMF) with Parallel Multi-step Forecasting (PMF)
 
 ## Authors
-This work was developed by the Advanced Computing Architecture Team, School of Computer Science and Engineering, South China University of Technology; Peng Cheng Laboratory.
+This work was developed by the Advanced Computing Architecture Team, School of Computer Science and Engineering, South China University of Technology; Pengcheng Laboratory.
 
 The top three main contributors are:
 - Shengsheng Lin ([cslinshengsheng@mail.scut.edu.cn]())
